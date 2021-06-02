@@ -15,7 +15,7 @@
     "homepage": "https://github.com/moment/moment",
     "authors": [{"name": "Tim Wood", "email": "washwithcare@gmail.com"}],
     "license": "MIT",
-    "type": "component",
+    "type": "library",
     "require": {
         "oomphinc/composer-installers-extender": "*"
     },
