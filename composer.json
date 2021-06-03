@@ -1,21 +1,22 @@
 {
-    "name": "moment/moment",
+    "name": "gaomingcode/moment",
     "description": "Parse, validate, manipulate, and display dates in JavaScript.",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
     "keywords": [
-        "moment",
-        "date",
-        "time",
-        "parse",
-        "format",
-        "validate",
-        "i18n",
-        "l10n",
-        "ender"
+        "moment", "date", "time", "parse", "format", "validate", "i18n", "l10n", "ender"
     ],
     "homepage": "https://github.com/moment/moment",
-    "authors": [{"name": "Tim Wood", "email": "washwithcare@gmail.com"}],
-    "license": "MIT",
-    "type": "library",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Tim Wood", 
+            "email": "washwithcare@gmail.com"
+        }
+    ],
     "require": {
         "oomphinc/composer-installers-extender": "*"
     },
@@ -25,8 +26,8 @@
                 "moment.js"
             ],
             "files": [
-               "min/*.js",
-               "locale/*.js"
+                "min/*.js",
+                "locale/*.js"
             ]
         }
     }
