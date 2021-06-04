@@ -2,7 +2,7 @@
 
 [![GitHub Version](https://img.shields.io/github/release/gaomingcode/moment.svg)](https://github.com/gaomingcode/moment)
 [![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/moment)](https://github.com/gaomingcode/moment)
-[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/moment)](https://github.com/gaomingcode/moment)
+[![Github License](https://img.shields.io/github/license/gaomingcode/moment)](https://github.com/gaomingcode/moment)
 
 ## Installation
 
@@ -11,7 +11,16 @@
 ```
 composer require gaomingcode/moment
 ```
-###
+
+## ReadMe from Origin
+
+[![NPM version][npm-version-image]][npm-url]
+[![NPM downloads][npm-downloads-image]][npm-downloads-url]
+[![MIT License][license-image]][license-url]
+[![Build Status][travis-image]][travis-url]
+[![Coverage Status][coveralls-image]][coveralls-url]
+[![FOSSA Status][fossa-badge-image]][fossa-badge-url]
+[![SemVer compatibility][semver-image]][semver-url]
 
 A JavaScript date library for parsing, validating, manipulating, and formatting dates.
 
